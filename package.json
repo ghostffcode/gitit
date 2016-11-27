@@ -1,10 +1,10 @@
 {
-  "name": "gitify",
+  "name": "gitrify",
   "version": "0.4.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "gitify": "./index.js"
+    "gitrify": "./index.js"
   },
   "dependencies": {
     "chalk": "^1.1.3",
