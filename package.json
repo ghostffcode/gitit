@@ -21,6 +21,10 @@
     "type": "git",
     "url": "git+https://github.com/ghostffcode/gitrify.git"
   },
+  "bugs": {
+    "url": "https://github.com/ghostffcode/gitrify/issues"
+  },
+  "homepage": "https://github.com/ghostffcode/gitrify#readme",
   "keywords": [
     "git",
     "repository",
@@ -28,9 +32,4 @@
   ],
   "author": "Chimeremeze Ukah <bliss@ghostffco.de>",
   "license": "MIT"
-},
-"license": "MIT",
-"bugs": {
-  "url": "https://github.com/ghostffcode/gitrify/issues"
-},
-"homepage": "https://github.com/ghostffcode/gitrify#readme"
+}
