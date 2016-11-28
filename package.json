@@ -1,6 +1,6 @@
 {
   "name": "gitrify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -17,6 +17,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostffcode/gitrify.git"
+  },
+  "keywords": [
+    "git",
+    "repository",
+    "creator"
+  ],
   "author": "Chimeremeze Ukah <bliss@ghostffco.de>",
   "license": "MIT"
-}
+},
+"license": "MIT",
+"bugs": {
+  "url": "https://github.com/ghostffcode/gitrify/issues"
+},
+"homepage": "https://github.com/ghostffcode/gitrify#readme"
